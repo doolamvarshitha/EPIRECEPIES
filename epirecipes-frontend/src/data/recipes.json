@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Spaghetti Carbonara",
+        "ingredients": ["spaghetti", "eggs", "parmesan cheese", "pancetta", "black pepper"],
+        "cuisine": "Italian",
+        "preparation_time": 20
+    },
+    {
+        "id": 2,
+        "title": "Tacos",
+        "ingredients": ["tortillas", "ground beef", "cheese", "lettuce", "tomato"],
+        "cuisine": "Mexican",
+        "preparation_time": 30
+    },
+    {
+        "id": 3,
+        "title": "Sushi",
+        "ingredients": ["rice", "nori", "salmon", "avocado", "soy sauce"],
+        "cuisine": "Japanese",
+        "preparation_time": 40
+    }
+]
